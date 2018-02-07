@@ -1,6 +1,6 @@
 #coding utf8
 
-from tkinter import *
+from tkinter importf *
 
 janela = Tk()
 
